@@ -24,7 +24,7 @@ Book reading tracker
 | 2024 |Macri, Mauricio|Para que| ** |
 | 2023 |Yofre, Juan Bautista|Dios y la patria me lo demanden| ** |
 | 2023 |Weir, Andy|The martian - a novel| *** |
-| 2020 1Hosseini, Khaled|A thousand splendid souls| **** |
+| 2020 |Hosseini, Khaled|A thousand splendid souls| **** |
 | 2020 |Stevenson, Robert Louis|The strange case of Dr Jekill and Mr Hyde| **** |
 | 2020 |King, Stephen|On writing| ***** |
 | 2020 |King, Stephen|Carrie| *** |
