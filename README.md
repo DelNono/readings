@@ -19,7 +19,7 @@ Book reading tracker
 | 2025 |Merkel, Angela|Libertad| ** |
 | 2024 |Piketty, Thomas|A econiomia da desigualdade| ** |
 | 2024 |Tolkien, JRR|Los hijos de Hurin| **** |
-| 2024 |Toljien, JRR|La caida de Gondolin| ** |
+| 2024 |Tolkien, JRR|La caida de Gondolin| ** |
 | 2024 |Bioy Casares, Adolfo|La invencion de Morel| **** |
 | 2024 |Macri, Mauricio|Para que| ** |
 | 2023 |Yofre, Juan Bautista|Dios y la patria me lo demanden| ** |
@@ -28,4 +28,6 @@ Book reading tracker
 | 2020 |Stevenson, Robert Louis|The strange case of Dr Jekill and Mr Hyde| **** |
 | 2020 |King, Stephen|On writing| ***** |
 | 2020 |King, Stephen|Carrie| *** |
+| 2020 |Tolkien, JRR|El señor de los anillos| **** |
+| 2020 |Tolkien, JRR|El hobbit| ***** |
 
