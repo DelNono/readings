@@ -15,5 +15,8 @@ Book reading tracker
 | 2025 |Brown, Dan|El ultimo secreto| *** |
 | 2025 |Kindera, Milan|La insoportable levedad del ser | *** |
 | 2024 |Piketty, Thomas|A econiomia da desigualdade| ** |
+| 2024 |Tolkien, JRR|Los hijos de Hurin| **** |
+| 2024 |Toljien, JRR|La caida de Gondolin| ** |
+1 2024 |Bioy Casares, Adolfo|La invencion de Morel| **** |
 | 2023 |Weir, Andy|The martian - a novel| *** |
 
