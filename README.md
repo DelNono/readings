@@ -4,7 +4,7 @@ Book reading tracker
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
 | 2026 |Camus, Albert|El extranjero | Reading | ** |
-| 2026 |Brown, Dan|Queued| |
+| 2026 |Brown, Dan|Origin| Queued | |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
 | 2026 |Saramago, Jose|Cain| Read | ***** |
 | 2026 |Nougan, Nick|Experimento eternidad| Read |****|
