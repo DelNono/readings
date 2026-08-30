@@ -25,7 +25,7 @@ Book reading tracker
 | 2024 |Bioy Casares, Adolfo|La invencion de Morel| Read |**** |
 | 2024 |Macri, Mauricio|Para que| Read | ** |
 | 2023 |Yofre, Juan Bautista|Dios y la patria me lo demanden| Read | ** |
-| 2023 |Weir, Andy|The martian - a novel| Read | *** |
+| 2023 |Weir, Andy|The martian| Read | *** |
 | 2023 |Brown, Dan|Inferno| Read | **** |
 | 2023 |Lousteau, Martin|Debajo del agua| Read | ** |
 | 2023 |Grotz, Sonia|Marca personal| Read | **** |
