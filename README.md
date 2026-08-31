@@ -3,7 +3,8 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
-| 2026 |Camus, Albert|El extranjero | Reading now |  |
+| 2026 |Pessoa, Fernando|Navegar e preciso| Reading now | |
+| 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Brown, Dan|Origin| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
