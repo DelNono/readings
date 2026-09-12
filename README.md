@@ -8,6 +8,7 @@ Book reading tracker
 | 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Brown, Dan|Origin| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
+| 2026 |Rusell, Bertrand|Por que no soy cristiano| Queued | |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
 | 2026 |Saramago, Jose|Cain| Read | ***** |
 | 2026 |Nougan, Nick|Experimento eternidad| Read |****|
