@@ -3,12 +3,12 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
-| 2026 |Nougan, Nick|Lo que queda de Cielo| Reading now | |
+| 2026 |Rusell, Bertrand|Por que no soy cristiano| Reading now | |
+| 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Brown, Dan|Origin| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
-| 2026 |Rusell, Bertrand|Por que no soy cristiano| Queued | |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
 | 2026 |Saramago, Jose|Cain| Read | ***** |
 | 2026 |Nougan, Nick|Experimento eternidad| Read |****|
