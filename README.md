@@ -5,7 +5,7 @@ Book reading tracker
 |------|--------|-------|--------|--------|
 | 2026 |Nougan, Nick|Lo que queda de Cielo| Reading now | |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
-| 2026 |Camus, Albert|El extranjero | Queued |  |
+| 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Brown, Dan|Origin| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
