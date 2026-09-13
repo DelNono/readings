@@ -4,6 +4,7 @@ Book reading tracker
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
 | 2026 |Rusell, Bertrand|Por que no soy cristiano| Reading now | |
+| 2026 |Scott, Waler|La flecha negra| Queued |  |
 | 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Camus, Albert|El extranjero | Read | ** |
