@@ -36,14 +36,14 @@ Book reading tracker
 | 2023 |Brown, Dan|Inferno| Read | **** |
 | 2023 |Lousteau, Martin|Debajo del agua| Read | ** |
 | 2023 |Grotz, Sonia|Marca personal| Read | **** |
-| 2020 |Bukowski, Charles|Love is a dog from hell| Read | ** |
-| 2020 |Bierce, Ambrose|Fantastic fables| Read | *** |
-| 2020 |Hosseini, Khaled|A thousand splendid souls| Read | **** |
-| 2020 |Stevenson, Robert Louis|The strange case of Dr Jekill and Mr Hyde| Read | **** |
-| 2020 |King, Stephen|On writing| Read | ***** |
-| 2020 |King, Stephen|Carrie| Read | *** |
-| 2020 |Tolkien, JRR|El señor de los anillos| Read | **** |
-| 2020 |Tolkien, JRR|El hobbit| Read | ***** |
+|  |Bukowski, Charles|Love is a dog from hell| Read | ** |
+|  |Bierce, Ambrose|Fantastic fables| Read | *** |
+|  |Hosseini, Khaled|A thousand splendid souls| Read | **** |
+|  |Stevenson, Robert Louis|The strange case of Dr Jekill and Mr Hyde| Read | **** |
+|  |King, Stephen|On writing| Read | ***** |
+|  |King, Stephen|Carrie| Read | *** |
+|  |Tolkien, JRR|El señor de los anillos| Read | **** |
+|  |Tolkien, JRR|El hobbit| Read | ***** |
 | 2012 |Brown, Dan|The Da Vinci code| Read | **** |
 | 2012 |Brown, Dan|Angels and daemons| Read | ***** |
 
