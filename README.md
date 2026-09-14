@@ -5,9 +5,6 @@ Book reading tracker
 |------|--------|-------|--------|--------|
 | 2026 |Rusell, Bertrand|Por que no soy cristiano| Reading now | |
 | 2026 |Scott, Walter|La flecha negra| Queued |  |
-| 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
-| 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
-| 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Brown, Dan|Origin| Queued | |
 | 2026 |Seneca|La brevedad de la vida| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
@@ -16,6 +13,9 @@ Book reading tracker
 | 2026 |Garcia Marquez, Gabriel|Cien años de soledad| Wish | |
 | 2026 |Harper Lee, Nell|Matar un ruiseñor| Wish | |
 | 2026 |Mann, Thomas|La muerte en Venecia| Wish | |
+| 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
+| 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
+| 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
 | 2026 |Saramago, Jose|Cain| Read | ***** |
 | 2026 |Nougan, Nick|Experimento eternidad| Read |****|
