@@ -10,7 +10,7 @@ Book reading tracker
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Clarke, Arthur|The garden of Rama| Queued | |
 | 2026 |Conan Doyle, Arthur|Sherlock Holmes - Obras completas| Queued | |
-| 2026 |Orwell, George|1984| Wish | |
+| 2026 |Orwell, George|1984| Queued | |
 | 2026 |Garcia Marquez, Gabriel|Cien años de soledad| Wish | |
 | 2026 |Harper Lee, Nell|Matar un ruiseñor| Wish | |
 | 2026 |Mann, Thomas|La muerte en Venecia| Wish | |
