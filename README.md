@@ -3,8 +3,7 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
-| 2026 |Rusell, Bertrand|Por que no soy cristiano| Reading now | |
-| 2026 |Scott, Walter|La flecha negra| Queued |  |
+| 2026 |Stevenson, Robert Louis|La flecha negra| Reading now |  |
 | 2026 |Brown, Dan|Origen| Queued | |
 | 2026 |Seneca|La brevedad de la vida| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
@@ -18,6 +17,7 @@ Book reading tracker
 | 2026 |Sabato, Ernesto|El tunel| Wish | |
 | 2026 |Dumas, Alexandre|El conde de Montecristo| Wish | |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
+| 2026 |Rusell, Bertrand|Por que no soy cristiano| Read | *** |
 | 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
 | 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Saramago, Jose|Ensayo sobre la ceguera| Read | ***** |
