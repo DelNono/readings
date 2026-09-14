@@ -36,7 +36,7 @@ Book reading tracker
 | 2023 |Brown, Dan|Inferno| Read | **** |
 | 2023 |Lousteau, Martin|Debajo del agua| Read | ** |
 | 2023 |Grotz, Sonia|Marca personal| Read | **** |
-|  |Hados, Martin y Arias Martin|Borges profesor| Read | *** |
+|  |Hadis, Martin y Arias Martin|Borges profesor| Read | *** |
 |  |Bukowski, Charles|Love is a dog from hell| Read | ** |
 |  |Bierce, Ambrose|Fantastic fables| Read | *** |
 |  |Hosseini, Khaled|A thousand splendid souls| Read | **** |
