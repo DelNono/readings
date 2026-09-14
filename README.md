@@ -14,6 +14,9 @@ Book reading tracker
 | 2026 |Garcia Marquez, Gabriel|Cien años de soledad| Wish | |
 | 2026 |Harper Lee, Nell|Matar un ruiseñor| Wish | |
 | 2026 |Mann, Thomas|La muerte en Venecia| Wish | |
+| 2026 |De Laclos, Pierre|Las amistades peligrosas| Wish | |
+| 2026 |Sabato, Ernesto|El tunel| Wish | |
+| 2026 |Dumas, Alexandre|El conde de Montecristo| Wish | |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
 | 2026 |Camus, Albert|El extranjero | Read | ** |
