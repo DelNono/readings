@@ -9,6 +9,7 @@ Book reading tracker
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Camus, Albert|El extranjero | Read | ** |
 | 2026 |Brown, Dan|Origin| Queued | |
+| 2026 |Seneca|La brevedad de la vida| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Clarke, Arthur|The garden of Rama| Queued | |
 | 2026 |Mann, Thomas|La muerte en Venecia| Queued | |
@@ -43,6 +44,6 @@ Book reading tracker
 | 2020 |King, Stephen|Carrie| Read | *** |
 | 2020 |Tolkien, JRR|El señor de los anillos| Read | **** |
 | 2020 |Tolkien, JRR|El hobbit| Read | ***** |
-| 2012 |Brown, Dan|The Da Vinci codes| Read | **** |
+| 2012 |Brown, Dan|The Da Vinci code| Read | **** |
 | 2012 |Brown, Dan|Angels and daemons| Read | ***** |
 
