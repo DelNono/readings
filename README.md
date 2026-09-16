@@ -4,6 +4,7 @@ Book reading tracker
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
 | 2026 |Stevenson, Robert Louis|La flecha negra| Reading now |  |
+| 2026 |Stevenson, Robert Louis|La isla del tesoro| Queued |  |
 | 2026 |Brown, Dan|Origen| Queued | |
 | 2026 |Seneca|La brevedad de la vida| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
