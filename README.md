@@ -1,4 +1,3 @@
-# readings
 Book reading tracker
 
 | Year | Author | Title | Status | Rating |
