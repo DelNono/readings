@@ -2,10 +2,9 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
-| 2026 |Stevenson, Robert Louis|La flecha negra| Reading now |  |
+| 2026 |Seneca|La brevedad de la vida| Reading now |  |
 | 2026 |Stevenson, Robert Louis|La isla del tesoro| Queued |  |
 | 2026 |Brown, Dan|Origen| Queued | |
-| 2026 |Seneca|La brevedad de la vida| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Clarke, Arthur|The garden of Rama| Queued | |
 | 2026 |Conan Doyle, Arthur|Sherlock Holmes - Obras completas| Queued | |
@@ -18,7 +17,11 @@ Book reading tracker
 | 2026 |De Laclos, Pierre|Las amistades peligrosas| Wish | |
 | 2026 |Sabato, Ernesto|El tunel| Wish | |
 | 2026 |Dumas, Alexandre|El conde de Montecristo| Wish | |
+| 2026 |Borges, Jorge Luis|El hacedor| Wish | |
+| 2026 |Waltari, Mika|El angel sombrio| Wish | |
+| 2026 |Nemirovsky, Irene|Suite francesa| Wish | |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
+| 2026 |Stevenson, Robert Louis|La flecha negra| Archived |  |
 | 2026 |Rusell, Bertrand|Por que no soy cristiano| Read | *** |
 | 2026 |Nougan, Nick|Lo que queda de Cielo| Read | **** |
 | 2026 |Camus, Albert|El extranjero | Read | ** |
