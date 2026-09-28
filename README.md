@@ -2,10 +2,11 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
+| 2026 |Conan Doyle, Arthur|Sherlock Holmes - Obras completas| Reading now | |
+| 2026 |Schnitzler, Arthur|Dream story| Reading now | |
 | 2026 |Brown, Dan|Origen| Queued | |
 | 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Clarke, Arthur|The garden of Rama| Queued | |
-| 2026 |Conan Doyle, Arthur|Sherlock Holmes - Obras completas| Queued | |
 | 2026 |Orwell, George|1984| Queued | |
 | 2026 |Tolkien, JRR|Beren y Luthien| Queued | |
 | 2026 |Garcia Marquez, Gabriel|Cien años de soledad| Wish | |
