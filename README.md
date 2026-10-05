@@ -18,6 +18,7 @@ Book reading tracker
 | 2026 |Borges, Jorge Luis|El hacedor| Wish | |
 | 2026 |Waltari, Mika|El angel sombrio| Wish | |
 | 2026 |Nemirovsky, Irene|Suite francesa| Wish | |
+| 2026 |Lispector, Clarice|A hora da estrela| Wish | |
 | 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Stevenson, Robert Louis|La flecha negra| Archived |  |
 | 2026 |Schnitzler, Arthur|Dream story| Read | *** |
