@@ -5,6 +5,7 @@ Book reading tracker
 | 2026 |Conan Doyle, Arthur|Sherlock Holmes - Estudio en Escarlata| Reading now | |
 | 2019 |Brown, Dan|Origen| Queued | |
 | 2025 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
+| 2026 |Shakespeare, William|Macbeth| Queued | |
 | 2013 |Clarke, Arthur|The garden of Rama| Queued | |
 | 2026 |Orwell, George|1984| Queued | |
 | 2022 |Tolkien, JRR|Beren y Luthien| Queued | |
