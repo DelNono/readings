@@ -3,11 +3,11 @@ Book reading tracker
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
 | 2026 |Conan Doyle, Arthur|Sherlock Holmes - Estudio en Escarlata| Reading now | |
-| 2026 |Brown, Dan|Origen| Queued | |
-| 2026 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
-| 2026 |Clarke, Arthur|The garden of Rama| Queued | |
+| 2019 |Brown, Dan|Origen| Queued | |
+| 2025 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
+| 2013 |Clarke, Arthur|The garden of Rama| Queued | |
 | 2026 |Orwell, George|1984| Queued | |
-| 2026 |Tolkien, JRR|Beren y Luthien| Queued | |
+| 2022 |Tolkien, JRR|Beren y Luthien| Queued | |
 | 2026 |Garcia Marquez, Gabriel|Cien años de soledad| Wish | |
 | 2026 |Borges, Jorge Luis|El libro de arena| Wish | |
 | 2026 |Harper Lee, Nell|Matar un ruiseñor| Wish | |
@@ -19,7 +19,7 @@ Book reading tracker
 | 2026 |Waltari, Mika|El angel sombrio| Wish | |
 | 2026 |Nemirovsky, Irene|Suite francesa| Wish | |
 | 2026 |Lispector, Clarice|A hora da estrela| Wish | |
-| 2026 |Pessoa, Fernando|Navegar e preciso| Archived | |
+| 2013 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Stevenson, Robert Louis|La flecha negra| Archived |  |
 | 2026 |Schnitzler, Arthur|Dream story| Read | *** |
 | 2026 |Stevenson, Robert Louis|La isla del tesoro| Read | ***** |
@@ -38,28 +38,30 @@ Book reading tracker
 | 2025 |Kafka, Frank|La metamorfosis| Read | *** |
 | 2025 |Brown, Dan|El simbolo perdido| Read | ** |
 | 2025 |Brown, Dan|El ultimo secreto| Read | *** |
-| 2025 |Kundera, Milan|La insoportable levedad del ser | Read | *** |
-| 2025 |Merkel, Angela|Libertad| Read | ** |
-| 2024 |Piketty, Thomas|A econiomia da desigualdade| Read | * |
-| 2024 |Tolkien, JRR|Los hijos de Hurin| Read | **** |
-| 2024 |Tolkien, JRR|La caida de Gondolin| Read | ** |
-| 2024 |Bioy Casares, Adolfo|La invencion de Morel| Read |**** |
+| 2013 |Brown, Dan|Inferno| Read | *** |
+| 2023 |Kundera, Milan|La insoportable levedad del ser | Read | *** |
+| 2024 |Merkel, Angela|Libertad| Read | ** |
+| 2015 |Piketty, Thomas|A econiomia da desigualdade| Read | * |
+| 2022 |Tolkien, JRR|Los hijos de Hurin| Read | **** |
+| 2022 |Tolkien, JRR|La caida de Gondolin| Read | ** |
+| 2022 |Bioy Casares, Adolfo|La invencion de Morel| Read |**** |
 | 2024 |Macri, Mauricio|Para que| Read | ** |
-| 2023 |Yofre, Juan Bautista|Dios y la patria me lo demanden| Read | ** |
-| 2023 |Weir, Andy|The martian| Read | *** |
+| 2022 |Yofre, Juan Bautista|Dios y la patria me lo demanden| Read | ** |
+| 2015 |Weir, Andy|The martian| Read | *** |
 | 2023 |Brown, Dan|Inferno| Read | **** |
-| 2023 |Lousteau, Martin|Debajo del agua| Read | ** |
-| 2023 |Grotz, Sonia|Marca personal| Read | **** |
-|  |Tong, Su|Madwoman on the bridge| Read | *** |
-|  |Hadis, Martin y Arias Martin|Borges profesor| Read | *** |
-|  |Bukowski, Charles|Love is a dog from hell| Read | ** |
-|  |Bierce, Ambrose|Fantastic fables| Read | *** |
-|  |Hosseini, Khaled|A thousand splendid souls| Read | **** |
-|  |Stevenson, Robert Louis|The strange case of Dr Jekill and Mr Hyde| Read | **** |
-|  |King, Stephen|On writing| Read | ***** |
-|  |King, Stephen|Carrie| Read | *** |
-|  |Tolkien, JRR|El señor de los anillos| Read | **** |
-|  |Tolkien, JRR|El hobbit| Read | ***** |
-| 2012 |Brown, Dan|The Da Vinci code| Read | **** |
-| 2012 |Brown, Dan|Angels and daemons| Read | ***** |
+| 2019 |Lousteau, Martin|Debajo del agua| Read | ** |
+| 2015 |Grotz, Sonia|Marca personal| Read | **** |
+| 2013 |Tong, Su|Madwoman on the bridge| Read | *** |
+| 2015 |Hadis, Martin y Arias Martin|Borges profesor| Read | *** |
+| 2013 |Bukowski, Charles|Love is a dog from hell| Read | ** |
+| 2013 |Bierce, Ambrose|Fantastic fables| Read | *** |
+| 2013 |Hosseini, Khaled|A thousand splendid souls| Read | **** |
+| 2014 |Stevenson, Robert Louis|The strange case of Dr Jekill and Mr Hyde| Read | **** |
+| 2014 |King, Stephen|On writing| Read | ***** |
+| 2017 |King, Stephen|Carrie| Read | *** |
+| 2013 |Escriva de Balaguer, Josemaria|Camino| Read | ** |
+| 2012 |Tolkien, JRR|El señor de los anillos| Read | **** |
+| 2012 |Tolkien, JRR|El hobbit| Read | ***** |
+| 2013 |Brown, Dan|The Da Vinci code| Read | **** |
+| 2013 |Brown, Dan|Angels and daemons| Read | ***** |
 
