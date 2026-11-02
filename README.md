@@ -2,7 +2,8 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
-| 2026 |Conan Doyle, Arthur|Sherlock Holmes - Estudio en Escarlata| Reading now | |
+| 2026 |Shakespeare, William|Macbeth| Reading now | |
+| 2026 |Conan Doyle, Arthur|Sherlock Holmes - Estudio en Escarlata| Paused | |
 | 2019 |Brown, Dan|Origen| Queued | |
 | 2025 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
 | 2026 |Shakespeare, William|Macbeth| Queued | |
