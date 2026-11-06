@@ -2,11 +2,9 @@ Book reading tracker
 
 | Year | Author | Title | Status | Rating |
 |------|--------|-------|--------|--------|
-| 2026 |Shakespeare, William|Macbeth| Reading now | |
 | 2026 |Conan Doyle, Arthur|Sherlock Holmes - Estudio en Escarlata| Paused | |
 | 2019 |Brown, Dan|Origen| Queued | |
 | 2025 |Dostoievski, Fiodor|Crimen y castigo| Queued | |
-| 2026 |Shakespeare, William|Macbeth| Queued | |
 | 2013 |Clarke, Arthur|The garden of Rama| Queued | |
 | 2026 |Orwell, George|1984| Queued | |
 | 2022 |Tolkien, JRR|Beren y Luthien| Queued | |
@@ -23,6 +21,7 @@ Book reading tracker
 | 2026 |Lispector, Clarice|A hora da estrela| Wish | |
 | 2013 |Pessoa, Fernando|Navegar e preciso| Archived | |
 | 2026 |Stevenson, Robert Louis|La flecha negra| Archived |  |
+| 2026 |Shakespeare, William|Macbeth| Read | ** |
 | 2026 |Schnitzler, Arthur|Dream story| Read | *** |
 | 2026 |Stevenson, Robert Louis|La isla del tesoro| Read | ***** |
 | 2026 |Seneca|La brevedad de la vida| Read | *** |
