@@ -39,7 +39,6 @@ Book reading tracker
 | 2025 |Kafka, Frank|La metamorfosis| Read | *** |
 | 2025 |Brown, Dan|El simbolo perdido| Read | ** |
 | 2025 |Brown, Dan|El ultimo secreto| Read | *** |
-| 2013 |Brown, Dan|Inferno| Read | *** |
 | 2023 |Kundera, Milan|La insoportable levedad del ser | Read | *** |
 | 2024 |Merkel, Angela|Libertad| Read | ** |
 | 2015 |Piketty, Thomas|A econiomia da desigualdade| Read | * |
